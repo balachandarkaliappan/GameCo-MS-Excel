@@ -13,3 +13,11 @@ are specifically interested in these questions:
 ● What other publishers will likely be the main competitors in certain markets?
 ● Have any games decreased or increased in popularity over time?
 ● How have their sales figures varied between geographic regions over time?
+
+## Systems Used
+
+MS Excel for data cleaning, wrangling, and visualizations.
+
+## Data Overview
+
+This data was drawn from the website [VGChartz](https://www.vgchartz.com)
